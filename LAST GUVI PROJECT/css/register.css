@@ -1,0 +1,56 @@
+*{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.bg-image img{
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.text-success{
+    font-size: 18px;
+}
+.text-danger{
+    font-size: 25px;
+}
+.text-warning{
+    font-size: 25px;
+}
+navbar{
+    background-color: gray;
+}
+.nav-item a:hover{
+    background-color: rgb(138, 130, 130);
+    color: white;
+       
+}
+.bg-secondary{
+    background-image: var(--bs-gradient);.
+}
+.container-fluid{
+    background: rgb(175, 89, 104);
+   
+}
+.bg-image{
+    background-image: url();
+}
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+}
+.gradient-custom-4 {
+    
+    background: #84fab0;  
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+}
+.btn-success a {
+    text-decoration: none;
+}
+.justify-content-center{
+
+}
+   
+

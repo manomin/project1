@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(255, 251, 251);
+    margin: 0px;
+    padding: 0px;
+}
+.bg-image img{
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.text-success{
+    font-size: 18px;
+}
+.text-danger{
+    font-size: 25px;
+}
+.text-warning{
+    font-size: 25px;
+}
+navbar{
+    background-color: gray;
+}
+.nav-item a:hover{
+    background-color: rgb(138, 130, 130);
+    color: white;
+    
+    
+}
+.bg-image{
+    background-image: url(banner.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+
+.bg-secondary{
+    background-image: var(--bs-gradient);.
+}
